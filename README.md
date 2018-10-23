@@ -38,13 +38,24 @@
 
 ## DevOps
 ---
+### methods
+[-> 12 factor for SAAS](https://12factor.net/)</br>
+### Git
+#### hooks
+[-> Basics about git Hooks](http://omerkatz.com/blog/2013/2/15/git-hooks-part-1-the-basics)</br>
+[-> git Hooks guide ](https://longair.net/blog/2011/04/09/missing-git-hooks-documentation/)</br>
+[-> git Hooks official guide ](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)</br>
 ### Vagrant
 ### Docker
-[Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
-[Docker compose app +mysql](https://mysqlrelease.com/2017/11/docker-compose-and-app-deployment-with-mysql/)</br>
+[-> Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
+[-> Docker compose app +mysql](https://mysqlrelease.com/2017/11/docker-compose-and-app-deployment-with-mysql/)</br>
 #### docker images
 [-> Kanboard](https://hub.docker.com/r/kanboard/kanboard/)</br>
 ### Ansible
+[-> Ansible Documentation](https://docs.ansible.com/)</br>
+[-> Ansible AWX - Free Tower](https://www.howtoforge.com/tutorial/how-to-install-ansible-awx-with-docker-on-centos/)</br>
+
+
 ### Jenkins
 
 [-> Jmeter in Jenkins by baeldung](http://www.baeldung.com/jenkins-and-jmeter)</br>
@@ -88,6 +99,9 @@
 ---
 ## BDD
 ---
+###SQL Server
+[-> Sql Server 2017-Generate script](https://docs.microsoft.com/fr-fr/sql/ssms/tutorials/scripting-ssms?view=sql-server-2017)</br>
+
 ## Java Tools
 ---
 [-> IBM WAS ressources](https://www.ibm.com/support/knowledgecenter/en/SSUP64_7.0.0/com.ibm.websphere.virtualenterprise.doc/odoe_task/tcimgr_wasce.html)</br>
