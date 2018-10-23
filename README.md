@@ -91,6 +91,8 @@
 [-> Azure cli download](https://azure.microsoft.com/en-us/downloads/)</br>
 [-> Azure cli use](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)</br>
 [-> Azure cli VM actions](https://buildazure.com/2017/06/07/azure-cli-2-0-quickly-start-stop-all-vms/)</br>
+[-> Azure  VM ](https://hichamkadiri.wordpress.com/tag/az-vm-stop/)</br>
+[-> Azure  kubernetes management cli ](https://blogs.msdn.microsoft.com/azureedu/2017/04/23/how-can-i-get-started-with-kubernetes-on-azure-container-services/)</br>
 
 ### AWS
 ## Windows
