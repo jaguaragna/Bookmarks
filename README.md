@@ -45,7 +45,12 @@
 [-> Basics about git Hooks](http://omerkatz.com/blog/2013/2/15/git-hooks-part-1-the-basics)</br>
 [-> git Hooks guide ](https://longair.net/blog/2011/04/09/missing-git-hooks-documentation/)</br>
 [-> git Hooks official guide ](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)</br>
+### CoreOS
+[-> coreOS on vagrant](https://coreos.com/os/docs/latest/booting-on-vagrant.html)</br>
+[-> coreOS infos](https://coreos.com/os/docs/latest/)</br>
+
 ### Vagrant
+
 ### Docker
 [-> Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
 [-> Docker compose app +mysql](https://mysqlrelease.com/2017/11/docker-compose-and-app-deployment-with-mysql/)</br>
@@ -54,6 +59,11 @@
 ### Ansible
 [-> Ansible Documentation](https://docs.ansible.com/)</br>
 [-> Ansible AWX - Free Tower](https://www.howtoforge.com/tutorial/how-to-install-ansible-awx-with-docker-on-centos/)</br>
+
+###Kubernetes
+[-> Kubernetes on windows](https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226)</br>
+[-> Kubernetes for dev](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)</br>
+[-> Kubernetes get started](https://blog.codeship.com/getting-started-with-kubernetes/)</br>
 
 
 ### Jenkins
@@ -69,6 +79,11 @@
 [-> ssh in Jenkins](https://www.cloudbees.com/blog/using-ssh-jenkins)</br>
 [-> Jenkins publish artefacts](https://medium.com/@weblab_tech/how-to-publish-artifacts-in-jenkins-f021b17fde71)</br>
 [-> Jenkins experience feedbacks](https://www.duchess-france.org/premier-pipelines-de-jenkins-2/)</br>
+[-> Jenkins CI by cloudbees](https://go.cloudbees.com/docs/cloudbees-documentation/cookbook/book.html#_continuous_delivery_with_jenkins_pipeline)</br>
+[-> Jenkins self signed certificate](http://lib.openlog.it/2014/09/14/jenkins-git-repository-and-self-signed-certificate/)</br>
+[-> Jenkins tests results and artifacts](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Reporting-test-results-and-storing-artifacts)</br>
+[-> Jenkins tests automation](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)</br>
+
 #### jenkins pipeline
 [-> Jmeter in Jenkins pipeline](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)</br>
 [-> Jenkins pipeline Example](https://github.com/jenkinsci/pipeline-plugin/blob/master/TUTORIAL.md)</br>
@@ -76,14 +91,20 @@
 [-> Jenkins pipeline best practices](https://www.cloudbees.com/blog/top-10-best-practices-jenkins-pipeline-plugin)</br>
 [-> Jenkins pipeline groovy BSD](https://github.com/freebsd/freebsd-ci/blob/master/scripts/build/build-test.groovy)</br>
 [-> Jenkins pipeline with groovy](https://wilsonmar.github.io/jenkins2-pipeline/)</br>
+[-> Jenkins pipeline Example ](https://dzone.com/articles/how-to-use-the-jenkins-declarative-pipeline)</br>
+[-> Jenkins pipeline syntax ](https://jenkins.io/doc/book/pipeline/syntax/#triggers)</br>
+[-> Jenkins pipeline syntax generator ](https://jenkinsci.github.io/job-dsl-plugin/#path/pipelineJob)</br>
+
 
 #### Jenkins docs/references
 [-> Jmenkins pipeline references](https://go.cloudbees.com/docs/cloudbees-documentation/use/reference/pipeline/)</br>
 [-> Jenkins pipeline syntax](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference)</br>
+[-> Jenkins GLOBAL Variables](https://qa.nuxeo.org/jenkins/pipeline-syntax/globals)</br>
 #### Jenkins Best Practices
 [DO not use docker in docker](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)</br>
 #### Jenkins Plugins
 [-> Jenkins workflow Aggregator](https://github.com/jenkinsci/workflow-aggregator-plugin/blob/master/demo/README.md)</br>
+[-> Jenkins Performance plugins for jmeter reports](http://jenkinsci.github.io/performance-plugin/Reporting.html)</br>
 
 ## clouds
 ---
@@ -93,6 +114,10 @@
 [-> Azure cli VM actions](https://buildazure.com/2017/06/07/azure-cli-2-0-quickly-start-stop-all-vms/)</br>
 [-> Azure  VM ](https://hichamkadiri.wordpress.com/tag/az-vm-stop/)</br>
 [-> Azure  kubernetes management cli ](https://blogs.msdn.microsoft.com/azureedu/2017/04/23/how-can-i-get-started-with-kubernetes-on-azure-container-services/)</br>
+[-> Azure  docker registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
+[-> Tutorial Azure ](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)</br>
+[-> Push Docker image to Azure Registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
+
 
 ### AWS
 ## Windows
@@ -101,8 +126,13 @@
 ---
 ## BDD
 ---
+###Data sets
+[-> datasets sites](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?share=1)</br>
 ###SQL Server
 [-> Sql Server 2017-Generate script](https://docs.microsoft.com/fr-fr/sql/ssms/tutorials/scripting-ssms?view=sql-server-2017)</br>
+[-> Sql Server backup ](https://www.howtogeek.com/50295/backup-your-sql-server-database-from-the-command-line/)</br>
+[-> Sql Server backup documentation](https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-2017)</br>
+[-> Sql Server backup tutorial](https://docs.microsoft.com/fr-fr/visualstudio/data-tools/install-sql-server-sample-databases?view=vs-2015)</br>
 
 ## Java Tools
 ---
@@ -115,6 +145,7 @@
 [-> Web Template](https://azmind.com/free-template-alissa-responsive-bootstrap-coming-soon-page/)</br>
 ### markdown
 [-> Markdown references](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</br>
+[-> Markdown altassian](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)</br>
 ## Services
 ---
 ## Tools
