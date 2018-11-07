@@ -64,8 +64,16 @@
 [-> Kubernetes on windows](https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226)</br>
 [-> Kubernetes for dev](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)</br>
 [-> Kubernetes get started](https://blog.codeship.com/getting-started-with-kubernetes/)</br>
+[-> Kubernetes install ](https://kubernetes.io/docs/tasks/tools/install-kubectl/)</br>
+[-> Kubernetes introduction digital ocean ](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)</br>
+[-> Kubernetes the hard way ](https://github.com/kelseyhightower/kubernetes-the-hard-way)</br>
+[-> Deploy production ready cluster ](https://github.com/kubernetes-incubator/kubespray)</br>
+[-> minikube ](https://github.com/kubernetes/minikube/releases)</br>
 
-
+### cloud tools
+[-> envoy cloud proxy ](https://www.envoyproxy.io/)</br>
+[-> prometheus for monitoring](https://prometheus.io/)</br>
+[-> prometheus metrics](https://linkerd.io/2/proxy-metrics/)</br>
 ### Jenkins
 
 [-> Jmeter in Jenkins by baeldung](http://www.baeldung.com/jenkins-and-jmeter)</br>
@@ -123,6 +131,9 @@
 ## Windows
 ---
 ## Linux
+###debuging
+[-> strace, dtrace,sysdig ](https://sysdig.com/blog/sysdig-vs-dtrace-vs-strace-a-technical-discussion/)</br>
+
 ---
 ## BDD
 ---
@@ -139,6 +150,9 @@
 [-> IBM WAS ressources](https://www.ibm.com/support/knowledgecenter/en/SSUP64_7.0.0/com.ibm.websphere.virtualenterprise.doc/odoe_task/tcimgr_wasce.html)</br>
 ## programmation
 ---
+###powershell
+[-> run exe in powershell](https://4sysops.com/archives/use-powershell-to-execute-an-exe/)</br>
+
 ### forums 
 [-> stack overflow](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f)</br>
 ### ressources
