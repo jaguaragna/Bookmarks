@@ -130,6 +130,7 @@
 ### AWS
 ## Windows
 ---
+[-> cmd powershell elevate rights](https://stackoverflow.com/questions/19098101/how-to-open-an-elevated-cmd-using-command-line-for-windows)</br>
 ## Linux
 ###debuging
 [-> strace, dtrace,sysdig ](https://sysdig.com/blog/sysdig-vs-dtrace-vs-strace-a-technical-discussion/)</br>
