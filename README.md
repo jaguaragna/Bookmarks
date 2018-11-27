@@ -54,6 +54,10 @@
 ### Docker
 [-> Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
 [-> Docker compose app +mysql](https://mysqlrelease.com/2017/11/docker-compose-and-app-deployment-with-mysql/)</br>
+[-> Docker remote API](https://www.virtuallyghetto.com/2014/07/quick-tip-how-to-enable-docker-remote-api.html)</br>
+[-> Docker rest API for automation](https://containerjournal.com/2018/06/22/using-docker-cloud-rest-api-to-enhance-automation/)</br>
+[-> Docker sdk stop all running containers](https://docs.docker.com/develop/sdk/examples/#stop-all-running-containers)</br>
+
 #### docker images
 [-> Kanboard](https://hub.docker.com/r/kanboard/kanboard/)</br>
 ### Ansible
@@ -74,6 +78,10 @@
 [-> envoy cloud proxy ](https://www.envoyproxy.io/)</br>
 [-> prometheus for monitoring](https://prometheus.io/)</br>
 [-> prometheus metrics](https://linkerd.io/2/proxy-metrics/)</br>
+
+### monitoring
+[-> prometheus monitorgin](https://coreos.com/blog/coreos-and-prometheus-improve-cluster-monitoring.html)</br>
+
 ### Jenkins
 
 [-> Jmeter in Jenkins by baeldung](http://www.baeldung.com/jenkins-and-jmeter)</br>
@@ -91,6 +99,10 @@
 [-> Jenkins self signed certificate](http://lib.openlog.it/2014/09/14/jenkins-git-repository-and-self-signed-certificate/)</br>
 [-> Jenkins tests results and artifacts](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Reporting-test-results-and-storing-artifacts)</br>
 [-> Jenkins tests automation](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)</br>
+[-> Jenkins advance scripting Jenkins](https://ifritltd.com/2018/03/18/advanced-jenkins-setup-creating-jenkins-configuration-as-code-and-applying-changes-without-downtime-with-java-groovy-docker-vault-consul-template-and-jenkins-job/)</br>
+[-> Jenkins deploy docker java coucbase](http://blog.arungupta.me/deployment-pipeline-docker-jenkins-java-couchbase/)</br>
+[-> Jenkins sctipted dockerexamples](https://getintodevops.com/blog/building-your-first-docker-image-with-jenkins-2-guide-for-developers)</br>
+
 
 #### jenkins pipeline
 [-> Jmeter in Jenkins pipeline](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)</br>
@@ -132,6 +144,7 @@
 ---
 [-> cmd powershell elevate rights](https://stackoverflow.com/questions/19098101/how-to-open-an-elevated-cmd-using-command-line-for-windows)</br>
 ## Linux
+[-> docker with systemd ](https://container-solutions.com/running-docker-containers-with-systemd/)</br>
 ###debuging
 [-> strace, dtrace,sysdig ](https://sysdig.com/blog/sysdig-vs-dtrace-vs-strace-a-technical-discussion/)</br>
 
@@ -151,8 +164,14 @@
 [-> IBM WAS ressources](https://www.ibm.com/support/knowledgecenter/en/SSUP64_7.0.0/com.ibm.websphere.virtualenterprise.doc/odoe_task/tcimgr_wasce.html)</br>
 ## programmation
 ---
-###powershell
+### microservices
+[-> tool to investigate ùicroservices](programmation)</br>
+
+### powershell
 [-> run exe in powershell](https://4sysops.com/archives/use-powershell-to-execute-an-exe/)</br>
+[-> parameters in powershell](https://blog.simonw.se/powershell-functions-and-parameter-sets/)</br>
+[-> pipelined in powershell](https://mcpmag.com/articles/2015/05/20/functions-that-support-the-pipeline.aspx)</br>
+[-> get-serice use powershell](https://www.computerperformance.co.uk/powershell/service/)</br>
 
 ### forums 
 [-> stack overflow](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f)</br>
@@ -164,6 +183,10 @@
 ## Services
 ---
 ## Tools
+### ssl
+[-> java keystore commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html)</br>
+[-> ssl common commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)</br>
+
 ---
 ### Visual studio code
 [-> change default terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)</br>
@@ -171,6 +194,11 @@
 
 ## Montagnes
 ---
+
+## it books
+[-> code progs](https://coderprog.com/)</br>
+[-> allitebooks](http://www.allitebooks.com/)</br>
+
 ### Escalade
 ### Dry-tooling
 ### Ice-Climbing
