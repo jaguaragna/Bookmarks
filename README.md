@@ -31,7 +31,12 @@
 [-> Alfresco Joseph](http://docs.arcadsoftware.com/share/page/user/jaguaragna/dashboard)</br>
 
 [-> JIRA ancien](http://rdvm-scm:8080/login.jsp?os_destination=%2Fsecure%2FRapidBoard.jspa%3FrapidView%3D65%26projectKey%3DDRV3%26view%3Dplanning.nodetail%26selectedIssue%3DDRV3-115%26versions%3Dvisible%26epics%3Dvisible)</br>
+
 ### Perso
+[-> Open source Proxys](https://geekflare.com/open-source-load-balancer/)</br>
+
+
+### proxys 
 [-> git Perso  ARCAD](https://csanghub01plv.arcadsoftware.fr/jaguaragna)</br>
 [-> Kanboard](http://192.168.99.100:8080/login)</br>
 [-> Jenkins Docker](http://192.168.99.100:83/login?from=%2F)</br>
@@ -78,9 +83,14 @@
 [-> envoy cloud proxy ](https://www.envoyproxy.io/)</br>
 [-> prometheus for monitoring](https://prometheus.io/)</br>
 [-> prometheus metrics](https://linkerd.io/2/proxy-metrics/)</br>
+[-> spinnaker for deployments](https://www.spinnaker.io/)</br>
 
 ### monitoring
 [-> prometheus monitorgin](https://coreos.com/blog/coreos-and-prometheus-improve-cluster-monitoring.html)</br>
+
+### Deployment strategies
+[-> canary deployment kubernetes ](https://stackify.com/canary-deployments/)</br>
+[->  deployment strategies ](https://thenewstack.io/deployment-strategies/)</br>
 
 ### Jenkins
 
