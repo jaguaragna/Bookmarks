@@ -33,15 +33,17 @@
 [-> JIRA ancien](http://rdvm-scm:8080/login.jsp?os_destination=%2Fsecure%2FRapidBoard.jspa%3FrapidView%3D65%26projectKey%3DDRV3%26view%3Dplanning.nodetail%26selectedIssue%3DDRV3-115%26versions%3Dvisible%26epics%3Dvisible)</br>
 
 ### Perso
-[-> Open source Proxys](https://geekflare.com/open-source-load-balancer/)</br>
-
-
-### proxys 
 [-> git Perso  ARCAD](https://csanghub01plv.arcadsoftware.fr/jaguaragna)</br>
 [-> Kanboard](http://192.168.99.100:8080/login)</br>
 [-> Jenkins Docker](http://192.168.99.100:83/login?from=%2F)</br>
 
+
+### proxys 
+[-> Open source Proxys](https://geekflare.com/open-source-load-balancer/)</br>
+
 ## DevOps
+[-> getting into devops infra side] (https://www.linkedin.com/pulse/getting-devops-carlos-nunez)</br>
+
 ---
 ### methods
 [-> 12 factor for SAAS](https://12factor.net/)</br>
@@ -55,6 +57,9 @@
 [-> coreOS infos](https://coreos.com/os/docs/latest/)</br>
 
 ### Vagrant
+[-> Vagrant Windows images](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)</br>
+[-> Vagrant Windows example utilisation avancees](https://kwilson.io/blog/provisioning-a-windows-server-vagrant-box-with-iis-net-4-5-and-octopus-deploy/)</br>
+
 
 ### Docker
 [-> Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
@@ -65,11 +70,25 @@
 
 #### docker images
 [-> Kanboard](https://hub.docker.com/r/kanboard/kanboard/)</br>
-### Ansible
+
+### Provioning
+
+#### Best practices
+[-> Terraform Best Practices](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)</br>
+
+#### tools for testing infra
+[-> serverspec test your server after provisioning](https://serverspec.org/)</br>
+[-> inspec test your server after provisioning](https://github.com/inspec/inspec)</br>
+[-> goss test your server after provisioning](https://github.com/aelsabbahy/goss)</br>
+[-> kitchen-terraform test your server after provisioning](https://github.com/newcontext-oss/kitchen-terraform)</br>
+[-> blog on infra test framework](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/)</br>
+
+
+#### Ansible
 [-> Ansible Documentation](https://docs.ansible.com/)</br>
 [-> Ansible AWX - Free Tower](https://www.howtoforge.com/tutorial/how-to-install-ansible-awx-with-docker-on-centos/)</br>
 
-###Kubernetes
+### Kubernetes
 [-> Kubernetes on windows](https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226)</br>
 [-> Kubernetes for dev](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)</br>
 [-> Kubernetes get started](https://blog.codeship.com/getting-started-with-kubernetes/)</br>
@@ -161,9 +180,9 @@
 ---
 ## BDD
 ---
-###Data sets
+### Data sets
 [-> datasets sites](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public?share=1)</br>
-###SQL Server
+### SQL Server
 [-> Sql Server 2017-Generate script](https://docs.microsoft.com/fr-fr/sql/ssms/tutorials/scripting-ssms?view=sql-server-2017)</br>
 [-> Sql Server backup ](https://www.howtogeek.com/50295/backup-your-sql-server-database-from-the-command-line/)</br>
 [-> Sql Server backup documentation](https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-2017)</br>
@@ -174,6 +193,10 @@
 [-> IBM WAS ressources](https://www.ibm.com/support/knowledgecenter/en/SSUP64_7.0.0/com.ibm.websphere.virtualenterprise.doc/odoe_task/tcimgr_wasce.html)</br>
 ## programmation
 ---
+
+### Test driven methods
+[-> TEst driven Principles](https://medium.freecodecamp.org/why-test-driven-development-4fb92d56487c)</br>
+
 ### microservices
 [-> tool to investigate ùicroservices](programmation)</br>
 
