@@ -149,6 +149,7 @@
 [-> Jmenkins pipeline references](https://go.cloudbees.com/docs/cloudbees-documentation/use/reference/pipeline/)</br>
 [-> Jenkins pipeline syntax](https://github.com/jenkinsci/pipeline-model-definition-plugin/wiki/Syntax-Reference)</br>
 [-> Jenkins GLOBAL Variables](https://qa.nuxeo.org/jenkins/pipeline-syntax/globals)</br>
+[-> Jenkins steps actions](https://jenkins.io/doc/pipeline/steps/)</br>
 #### Jenkins Best Practices
 [DO not use docker in docker](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)</br>
 #### Jenkins Plugins
@@ -166,7 +167,8 @@
 [-> Azure  docker registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
 [-> Tutorial Azure ](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)</br>
 [-> Push Docker image to Azure Registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
-
+### EXCEL
+[-> Excel Templates ](https://www.lifewire.com/free-excel-templates-1356642)</br>
 
 ### AWS
 ## Windows
