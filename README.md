@@ -176,6 +176,8 @@
 [-> cmd powershell elevate rights](https://stackoverflow.com/questions/19098101/how-to-open-an-elevated-cmd-using-command-line-for-windows)</br>
 ## Linux
 [-> docker with systemd ](https://container-solutions.com/running-docker-containers-with-systemd/)</br>
+[-> tmux use ](https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/)</br>
+
 ###debuging
 [-> strace, dtrace,sysdig ](https://sysdig.com/blog/sysdig-vs-dtrace-vs-strace-a-technical-discussion/)</br>
 
@@ -229,6 +231,11 @@
 
 ## Montagnes
 ---
+### glace
+[-> pratique glace](https://alpinemag.fr/suivez-le-guide-cascade-de-glace/?fbclid=IwAR3Dq5LMJ-V5ZhjbS_aPnMOABYOf4bGYVW1HCYRb5-fF5ulCgOE2C-T5Quk)</br>
+[-> travail endurance](https://www.facebook.com/notes/gaetan-raymond/lendurance-et-les-techniques-sp%C3%A9ciales/10156513202140067/)</br>
+[-> travail abdos](https://www.facebook.com/notes/gaetan-raymond/les-abdominaux/10156466974985067/)</br>
+
 
 ## it books
 [-> code progs](https://coderprog.com/)</br>
