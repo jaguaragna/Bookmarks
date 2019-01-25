@@ -59,7 +59,13 @@
 ### Vagrant
 [-> Vagrant Windows images](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)</br>
 [-> Vagrant Windows example utilisation avancees](https://kwilson.io/blog/provisioning-a-windows-server-vagrant-box-with-iis-net-4-5-and-octopus-deploy/)</br>
+[-> Vagrant Windows setup for winrm](https://dennypc.wordpress.com/2014/06/09/creating-a-windows-box-with-vagrant-1-6/ )</br>
+[-> Vagrant BOXES catalogue](https://app.vagrantup.com/boxes/search )</br>
+[-> Vagrant create boxes ](https://www.sitepoint.com/create-share-vagrant-base-box/ )</br>
 
+
+### Terraform
+[-> Vagrant BOXES catalogue](https://app.vagrantup.com/boxes/search )</br>
 
 ### Docker
 [-> Docker compose](https://docs.docker.com/compose/gettingstarted/#step-3-define-services-in-a-compose-file)</br>
@@ -234,8 +240,9 @@
 ### glace
 [-> pratique glace](https://alpinemag.fr/suivez-le-guide-cascade-de-glace/?fbclid=IwAR3Dq5LMJ-V5ZhjbS_aPnMOABYOf4bGYVW1HCYRb5-fF5ulCgOE2C-T5Quk)</br>
 [-> travail endurance](https://www.facebook.com/notes/gaetan-raymond/lendurance-et-les-techniques-sp%C3%A9ciales/10156513202140067/)</br>
-[-> travail abdos](https://www.facebook.com/notes/gaetan-raymond/les-abdominaux/10156466974985067/)</br>
 
+## courses
+[-> course on distributes systems](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)</br>
 
 ## it books
 [-> code progs](https://coderprog.com/)</br>
