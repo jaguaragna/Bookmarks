@@ -12,6 +12,7 @@
 ### DROPS
 [Rollback Drops](https://wiki.quarcad.net/DROPS_-_Rollback_SQL_Server)</br>
 [Documentation  Drops](https://help-drops.arcadsoftware.com/Content/Targets/HTML/HomePage.htm)</br>
+
 ### Demo Drops
 [------------------->DropsServer](http://192.168.99.101:8080/drops/drops)</br>
 [------------------->WeLoveMountains](http://192.168.99.101:8080/WeLoveMountains)</br>
@@ -42,7 +43,10 @@
 [-> Open source Proxys](https://geekflare.com/open-source-load-balancer/)</br>
 
 ## DevOps
-[-> getting into devops infra side] (https://www.linkedin.com/pulse/getting-devops-carlos-nunez)</br>
+[-> getting into devops infra side](https://www.linkedin.com/pulse/getting-devops-carlos-nunez)</br>
+[-> Devops readings](https://www.linkedin.com/pulse/getting-devops-carlos-nunez )</br>
+[-> 12 factor app ](https://12factor.net/ )</br>
+[-> Thoughts on Continuous Delivery and Agile development](http://www.davefarley.net/ )</br>
 
 ---
 ### methods
@@ -62,9 +66,19 @@
 [-> Vagrant Windows setup for winrm](https://dennypc.wordpress.com/2014/06/09/creating-a-windows-box-with-vagrant-1-6/ )</br>
 [-> Vagrant BOXES catalogue](https://app.vagrantup.com/boxes/search )</br>
 [-> Vagrant create boxes ](https://www.sitepoint.com/create-share-vagrant-base-box/ )</br>
+[-> Vagrant with hyperV ](https://pioneercode.com/post/building-a-hyper-v-windows-10-vagrant-box )</br>
+[-> Vagrant with hyperV ](https://pioneercode.com/post/building-a-hyper-v-windows-10-vagrant-box )</br>
+[-> Packer with vagrant ](https://blog.codeship.com/packer-vagrant-tutorial/ )</br>
+
+### Packer
+[-> Packer by hashicorp ](https://www.packer.io/intro/getting-started/build-image.html )</br>
+
 
 
 ### Terraform
+[-> Vagrant BOXES catalogue](https://app.vagrantup.com/boxes/search )</br>
+[-> Learn Terraform Hashicorp](https://learn.hashicorp.com/terraform/getting-started/build )</br>
+
 [-> Vagrant BOXES catalogue](https://app.vagrantup.com/boxes/search )</br>
 
 ### Docker
@@ -73,6 +87,11 @@
 [-> Docker remote API](https://www.virtuallyghetto.com/2014/07/quick-tip-how-to-enable-docker-remote-api.html)</br>
 [-> Docker rest API for automation](https://containerjournal.com/2018/06/22/using-docker-cloud-rest-api-to-enhance-automation/)</br>
 [-> Docker sdk stop all running containers](https://docs.docker.com/develop/sdk/examples/#stop-all-running-containers)</br>
+[-> Itsio security](https://www.twistlock.com/2017/06/02/istio-important-container-security/)</br>
+[-> proxy in itsio ](https://www.envoyproxy.io/)</br>
+[-> monitoring docker ](https://prometheus.io/)</br>
+[-> docker file tipes entrypoint CMd ](http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/)</br>
+
 
 #### docker images
 [-> Kanboard](https://hub.docker.com/r/kanboard/kanboard/)</br>
@@ -103,6 +122,7 @@
 [-> Kubernetes the hard way ](https://github.com/kelseyhightower/kubernetes-the-hard-way)</br>
 [-> Deploy production ready cluster ](https://github.com/kubernetes-incubator/kubespray)</br>
 [-> minikube ](https://github.com/kubernetes/minikube/releases)</br>
+[-> Borg white papers ](https://pdos.csail.mit.edu/6.824/papers/borg.pdf)</br>
 
 ### cloud tools
 [-> envoy cloud proxy ](https://www.envoyproxy.io/)</br>
@@ -173,13 +193,19 @@
 [-> Azure  docker registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
 [-> Tutorial Azure ](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)</br>
 [-> Push Docker image to Azure Registry ](https://www.liammoat.com/blog/2018/push-a-docker-image-to-azure-container-registry-from-vsts)</br>
-### EXCEL
-[-> Excel Templates ](https://www.lifewire.com/free-excel-templates-1356642)</br>
+[-> Azure automation ](https://ppolyzos.com/2017/08/15/schedule-startup-and-shutdown-of-your-virtual-machines-using-azure-automation/)</br>
+[-> powershell info on object ](https://thinkpowershell.com/get-all-powershell-object-properties//)</br>
+
 
 ### AWS
 ## Windows
 ---
 [-> cmd powershell elevate rights](https://stackoverflow.com/questions/19098101/how-to-open-an-elevated-cmd-using-command-line-for-windows)</br>
+[-> powershelle network troubleshoot ](https://www.hurryupandwait.io/blog/understanding-and-troubleshooting-winrm-connection-and-authentication-a-thrill-seekers-guide-to-adventure)</br>
+### EXCEL
+---
+[-> Excel Templates ](https://www.lifewire.com/free-excel-templates-1356642)</br>
+
 ## Linux
 [-> docker with systemd ](https://container-solutions.com/running-docker-containers-with-systemd/)</br>
 [-> tmux use ](https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/)</br>
@@ -204,8 +230,12 @@
 ## programmation
 ---
 
+### php
+[-> Template php](https://azmind.com/free-template-alissa-responsive-bootstrap-coming-soon-page/)</br>
+
+
 ### Test driven methods
-[-> TEst driven Principles](https://medium.freecodecamp.org/why-test-driven-development-4fb92d56487c)</br>
+[-> Test driven Principles](https://medium.freecodecamp.org/why-test-driven-development-4fb92d56487c)</br>
 
 ### microservices
 [-> tool to investigate ùicroservices](programmation)</br>
@@ -226,6 +256,11 @@
 ## Services
 ---
 ## Tools
+### nginx
+[-> docker nginx](https://hub.docker.com/_/nginx/)</br>
+[-> setup nginx with ssl](https://www.novixys.com/blog/nginx-web-server-ssl-certificate/)</br>
+[-> nginx ith let s encrypt](https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/)</br>
+
 ### ssl
 [-> java keystore commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html)</br>
 [-> ssl common commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)</br>
@@ -243,12 +278,23 @@
 
 ## courses
 [-> course on distributes systems](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)</br>
+### TDD/BDD
+[-> TEst driver data with GOSS](https://velenux.wordpress.com/2016/11/20/test-driven-infrastructure-with-goss/)</br>
 
 ## it books
 [-> code progs](https://coderprog.com/)</br>
 [-> allitebooks](http://www.allitebooks.com/)</br>
+### programmation 
+## GO
+[-> go books](https://global.gotomeeting.com/join/590033877)</br>
+
+### AS400
+[-> book AS400](https://books.google.fr/books?id=elh8ydHWtTYC&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=true)</br>
 
 ### Escalade
+### Blogs
+[-> weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/)</br>
+
 ### Dry-tooling
 ### Ice-Climbing
 ### Camp to camp
